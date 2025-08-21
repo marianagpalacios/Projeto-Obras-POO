@@ -54,7 +54,8 @@ Cada classe contém atributos e métodos específicos, demonstrando o uso de **h
 ## ▶️ Como executar no NetBeans
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/galeria-poo.git
+   https://github.com/marianagpalacios/Projeto-Obras-POO.git
+
 
 2. Abra o NetBeans.
 
