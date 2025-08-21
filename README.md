@@ -49,8 +49,6 @@ Cada classe contém atributos e métodos específicos, demonstrando o uso de **h
 ---
 
 
----
-
 ## ▶️ Como executar no NetBeans
 1. Clone este repositório:  
    ```bash
@@ -63,7 +61,9 @@ Cada classe contém atributos e métodos específicos, demonstrando o uso de **h
 
 4. Execute o projeto pelo botão Run Project (F6).
 
-🎯 Possíveis melhorias futuras
+   ---
+
+** 🎯 Possíveis melhorias futuras ** 
 
 Implementar persistência de dados (salvar em arquivo ou banco de dados).
 
@@ -73,11 +73,10 @@ Adicionar novas categorias de obras.
 
 Melhorar a interface gráfica com layouts mais modernos.
 
-##👩‍💻 Autora
+---
+
+## 👩‍💻 Autora
 
 Mariana Gasparotto Palácios
 Estudante de Engenharia de Software – UTFPR
 
-
-
-## 📂 Estrutura do projeto
